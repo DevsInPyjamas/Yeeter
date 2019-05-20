@@ -1,0 +1,40 @@
+.content {
+            margin-left: auto;
+           /* position: relative; */
+            top: 50%;
+            left: 20%;
+}
+
+.content .top {
+    margin-top: 60px;
+    margin-left: 20%;
+    font-size: 30px;
+}
+
+.content .bot {
+    width: 60%;
+    position: static;
+    margin-top: 100px;
+}
+
+.content .top .btn-primary {
+ position: absolute;
+ right: 50%;
+
+
+}
+.content .top-grupos {
+    margin-top: 60px;
+    margin-left: 47%;
+    font-size: 20px;
+}
+
+.content .bot-grupos {
+    width: 60%;
+    position: static;
+    margin-top: 10px;
+}
+
+.not-read {
+    border-color: #17a2b8;
+}

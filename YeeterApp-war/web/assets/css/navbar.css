@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16-Apr-2019, 12:53:12
+    Author     : alec
+*/
+
+.yeeter-nav {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.btn .pencil-left {
+    transform: translateY(-10px) translateX(9px);
+    font-size: 0.6rem;
+    filter: drop-shadow(0px 0px 1px #000000);
+}
+
+
+.btn .book-right{
+    transform: translateY(-4px);
+}
+
+.btn:hover .pencil-left{
+    filter: drop-shadow(0px 0px 1px #FFFFFF);
+}
+
+.paneluser-navbar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
